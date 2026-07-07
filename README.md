@@ -1,118 +1,112 @@
+```{=html}
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&duration=3500&pause=1000&color=0EA5E9&center=true&vCenter=true&width=1000&lines=WordPress+Security+Specialist;Web+Developer;Shopify+Expert;Malware+Removal+Specialist;Helping+Businesses+Build+Secure+Websites" alt="Typing SVG" />
-  </a>
+```
+`<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&duration=3500&pause=1000&color=0EA5E9&center=true&vCenter=true&width=900&lines=WordPress+Security+Specialist;Web+Developer;Shopify+Expert;Malware+Removal+Specialist" />`{=html}
+```{=html}
 </p>
-
+```
+```{=html}
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sefathossainn&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+```
+`<img src="https://komarev.com/ghpvc/?username=sefathossainn&label=Profile+Views&style=for-the-badge"/>`{=html}
+```{=html}
 </p>
+```
+# 👋 Hi, I'm Sefat Hossain
 
-<h1 align="center">👋 Hi, I'm Sefat Hossain</h1>
+## 🛡️ WordPress Security Specialist \| 🌐 Web Developer \| 🛒 Shopify Expert
 
-<h3 align="center">
-🛡️ WordPress Security Specialist | 🌐 Web Developer | 🛒 Shopify Expert
-</h3>
+I help businesses secure, optimize and build high‑performing websites.
 
+------------------------------------------------------------------------
+
+# 🚀 About Me
+
+-   🔐 WordPress Security Specialist
+-   🦠 Malware Removal Expert
+-   ⚡ Website Speed Optimization
+-   🛒 Shopify Development
+-   ☁️ Cloudflare Configuration
+-   🔄 Website Migration
+-   🧹 Spam Link Cleanup
+
+------------------------------------------------------------------------
+
+# 💼 Services
+
+  Service                      Status
+  ---------------------------- --------
+  WordPress Malware Removal    ✅
+  Website Security Hardening   ✅
+  Website Speed Optimization   ✅
+  Shopify Development          ✅
+  WordPress Development        ✅
+  Website Migration            ✅
+  Website Maintenance          ✅
+  Ongoing Security Support     ✅
+
+------------------------------------------------------------------------
+
+# 🛠️ Tech Stack
+
+```{=html}
+<p>
+```
+`<img src="https://skillicons.dev/icons?i=wordpress,shopify,cloudflare,git,linux"/>`{=html}
+```{=html}
+</p>
+```
+
+------------------------------------------------------------------------
+
+# 📊 GitHub Stats
+
+```{=html}
 <p align="center">
-I help businesses secure, optimize, and build high-performing websites.
+```
+`<img height="170" src="https://github-readme-stats.vercel.app/api?username=sefathossainn&show_icons=true&theme=github_dark&hide_border=true"/>`{=html}
+`<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sefathossainn&layout=compact&theme=github_dark&hide_border=true"/>`{=html}
+```{=html}
 </p>
+```
 
----
+------------------------------------------------------------------------
 
-# 🚀 Services
+# 🔥 GitHub Streak
 
-- 🛡️ WordPress Malware Removal
-- 🔒 Website Security Hardening
-- 🛒 Shopify Development
-- 🌐 WordPress Development
-- ⚡ Website Speed Optimization
-- 🔄 Website Migration
-- 🧹 Spam Link Cleanup
-- ☁️ Cloudflare Setup
-- 💾 Backup & Restore
-- 🔍 Website Maintenance
+```{=html}
+<p align="center">
+```
+`<img src="https://streak-stats.demolab.com?user=sefathossainn&theme=github-dark&hide_border=true"/>`{=html}
+```{=html}
+</p>
+```
 
----
-
-# 🛠️ My Expertise
-
-- WordPress
-- Shopify
-- Elementor
-- Website Security
-- Malware Removal
-- Website Speed Optimization
-- Website Migration
-- Cloudflare
-- cPanel
-- Backup & Restore
-
----
+------------------------------------------------------------------------
 
 # 🌐 Connect With Me
 
-<p align="left">
-<a href="https://sefathossain.com" target="_blank">
-<img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/sefathossainn" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://facebook.com/sefathossainofficial" target="_blank">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook"/>
-</a>
-
-<a href="https://www.pinterest.com/sefathossainn/" target="_blank">
-<img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest"/>
-</a>
-
-<a href="https://behance.net/sefathossainn" target="_blank">
-<img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/>
-</a>
-
-<a href="https://sefathossainofficial.blogspot.com/" target="_blank">
-<img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/>
-</a>
-
+```{=html}
+<p>
+```
+`<a href="https://sefathossain.com">`{=html}`<img src="https://img.shields.io/badge/Website-black?style=for-the-badge"/>`{=html}`</a>`{=html}
+`<a href="https://linkedin.com/in/sefathossainn">`{=html}`<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>`{=html}`</a>`{=html}
+`<a href="https://facebook.com/sefathossainofficial">`{=html}`<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook"/>`{=html}`</a>`{=html}
+`<a href="https://www.pinterest.com/sefathossainn/">`{=html}`<img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest"/>`{=html}`</a>`{=html}
+`<a href="https://behance.net/sefathossainn">`{=html}`<img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance"/>`{=html}`</a>`{=html}
+`<a href="https://sefathossainofficial.blogspot.com/">`{=html}`<img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger"/>`{=html}`</a>`{=html}
+```{=html}
 </p>
+```
 
----
+------------------------------------------------------------------------
 
-# 📫 Contact
+## 📫 Contact
 
-📧 **Email:** mdsefathossainn@gmail.com
+-   📧 mdsefathossainn@gmail.com
+-   🌍 https://sefathossain.com
+-   📍 Dhaka, Bangladesh
 
-🌍 **Website:** https://sefathossain.com
+------------------------------------------------------------------------
 
-📍 **Location:** Dhaka, Bangladesh
-
----
-
-# ⭐ About Me
-
-✔ WordPress Security Specialist
-
-✔ Malware Removal Expert
-
-✔ Shopify Expert
-
-✔ Website Speed Optimization
-
-✔ Website Migration
-
-✔ Cloudflare Configuration
-
-✔ cPanel Management
-
-✔ WordPress Maintenance
-
----
-
-<p align="center">
-
-⭐ Thanks for visiting my GitHub profile! ⭐
-
-</p>
+> 🛡️ "Security is not a product, but a process."
