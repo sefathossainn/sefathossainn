@@ -76,6 +76,11 @@ I help businesses secure, optimize, and build high-performing websites.
 - 🌍 Website: https://sefathossain.com
 - 📧 Email: mdsefathossainn@gmail.com
 - 📍 Bangladesh
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sefathossainn/sefathossainn/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
 <p align="center">⭐ Thanks for visiting my profile!</p>
 ## 🏆 GitHub Trophy
