@@ -1,4 +1,7 @@
 <p align="center">
+  <img src="https://raw.githubusercontent.com/sefathossainn/sefathossainn/main/banner.png" width="100%" alt="Sefat Hossain Banner">
+</p>
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=32&duration=3500&pause=1000&color=0EA5E9&center=true&vCenter=true&width=900&lines=WordPress+Security+Specialist;Web+Developer;Shopify+Expert;Website+Security+Consultant" alt="Typing SVG" />
 </p>
 
