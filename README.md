@@ -8,11 +8,7 @@
 
 <h1 align="center">👋 Hi, I'm Sefat Hossain</h1>
 
-<h3 align="center">
-🛡️ WordPress Security Specialist |
-🌐 Web Developer |
-🛒 Shopify Expert
-</h3>
+<h3 align="center">🛡️ WordPress Security Specialist | 🌐 Web Developer | 🛒 Shopify Expert</h3>
 
 <p align="center">
 I help businesses secure, optimize, and build high-performing websites.
@@ -42,7 +38,7 @@ I help businesses secure, optimize, and build high-performing websites.
 <img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" />
 <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
 <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white" />
-<img src="https://img.shields.io/badge/WHM-0086D1?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/WHM-0086D1?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
@@ -52,11 +48,8 @@ I help businesses secure, optimize, and build high-performing websites.
 ## 📊 GitHub Stats
 
 <p align="center">
-
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=sefathossainn&show_icons=true&theme=tokyonight&hide_border=true" />
-
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sefathossainn&layout=compact&theme=tokyonight&hide_border=true" />
-
 </p>
 
 ---
@@ -72,27 +65,11 @@ I help businesses secure, optimize, and build high-performing websites.
 ## 🌐 Connect With Me
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/sefathossainn">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://www.facebook.com/sefathossainofficial">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-
-<a href="https://www.pinterest.com/sefathossainn/">
-<img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white"/>
-</a>
-
-<a href="https://www.behance.net/sefathossainn">
-<img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/>
-</a>
-
-<a href="https://sefathossain.com">
-<img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
+<a href="https://www.linkedin.com/in/sefathossainn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.facebook.com/sefathossainofficial"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<a href="https://www.pinterest.com/sefathossainn/"><img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white"/></a>
+<a href="https://www.behance.net/sefathossainn"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/></a>
+<a href="https://sefathossain.com"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 </p>
 
 ---
@@ -101,10 +78,6 @@ I help businesses secure, optimize, and build high-performing websites.
 
 - 🌍 Website: https://sefathossain.com
 - 📧 Email: mdsefathossainn@gmail.com
-- 📍 Location: Bangladesh
+- 📍 Bangladesh
 
----
-
-<p align="center">
-⭐ Thanks for visiting my profile!
-</p>
+<p align="center">⭐ Thanks for visiting my profile!</p>
