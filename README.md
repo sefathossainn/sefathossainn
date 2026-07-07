@@ -83,5 +83,4 @@ I help businesses secure, optimize, and build high-performing websites.
 </p>
 
 <p align="center">⭐ Thanks for visiting my profile!</p>
-## 🏆 GitHub Trophy
 
