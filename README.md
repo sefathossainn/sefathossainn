@@ -42,25 +42,19 @@ I help businesses secure, optimize, and build high-performing websites.
 <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
 <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white" />
 <img src="https://img.shields.io/badge/WHM-0086D1?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
-
+## 📊 GitHub Activity
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sefathossainn&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sefathossainn&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img width="78%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sefathossainn&theme=tokyonight" />
 </p>
-
----
 
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=sefathossainn&theme=tokyonight&hide_border=true" />
+  <img width="78%" src="https://streak-stats.demolab.com?user=sefathossainn&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -84,3 +78,5 @@ I help businesses secure, optimize, and build high-performing websites.
 - 📍 Bangladesh
 
 <p align="center">⭐ Thanks for visiting my profile!</p>
+## 🏆 GitHub Trophy
+
