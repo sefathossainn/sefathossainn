@@ -1,112 +1,110 @@
-```{=html}
 <p align="center">
-```
-`<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&duration=3500&pause=1000&color=0EA5E9&center=true&vCenter=true&width=900&lines=WordPress+Security+Specialist;Web+Developer;Shopify+Expert;Malware+Removal+Specialist" />`{=html}
-```{=html}
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=32&duration=3500&pause=1000&color=0EA5E9&center=true&vCenter=true&width=900&lines=WordPress+Security+Specialist;Web+Developer;Shopify+Expert;Website+Security+Consultant" alt="Typing SVG" />
 </p>
-```
-```{=html}
+
 <p align="center">
-```
-`<img src="https://komarev.com/ghpvc/?username=sefathossainn&label=Profile+Views&style=for-the-badge"/>`{=html}
-```{=html}
+  <img src="https://komarev.com/ghpvc/?username=sefathossainn&label=Profile+Views&color=0e75b6&style=for-the-badge" />
 </p>
-```
-# 👋 Hi, I'm Sefat Hossain
 
-## 🛡️ WordPress Security Specialist \| 🌐 Web Developer \| 🛒 Shopify Expert
+<h1 align="center">👋 Hi, I'm Sefat Hossain</h1>
 
-I help businesses secure, optimize and build high‑performing websites.
+<h3 align="center">
+🛡️ WordPress Security Specialist |
+🌐 Web Developer |
+🛒 Shopify Expert
+</h3>
 
-------------------------------------------------------------------------
+<p align="center">
+I help businesses secure, optimize, and build high-performing websites.
+</p>
 
-# 🚀 About Me
+---
 
--   🔐 WordPress Security Specialist
--   🦠 Malware Removal Expert
--   ⚡ Website Speed Optimization
--   🛒 Shopify Development
--   ☁️ Cloudflare Configuration
--   🔄 Website Migration
--   🧹 Spam Link Cleanup
+## 🚀 Services
 
-------------------------------------------------------------------------
+- 🛡️ WordPress Malware Removal
+- 🔐 Website Security Hardening
+- 🛒 Shopify Development
+- ⚡ Website Speed Optimization
+- ☁️ Cloudflare Setup
+- 🔄 Website Migration
+- 📦 Backup & Restore
+- 🧹 Spam Link Cleanup
+- 🛠️ WordPress Maintenance
 
-# 💼 Services
+---
 
-  Service                      Status
-  ---------------------------- --------
-  WordPress Malware Removal    ✅
-  Website Security Hardening   ✅
-  Website Speed Optimization   ✅
-  Shopify Development          ✅
-  WordPress Development        ✅
-  Website Migration            ✅
-  Website Maintenance          ✅
-  Ongoing Security Support     ✅
+## 🛠️ Tools & Technologies
 
-------------------------------------------------------------------------
-
-# 🛠️ Tech Stack
-
-```{=html}
 <p>
-```
-`<img src="https://skillicons.dev/icons?i=wordpress,shopify,cloudflare,git,linux"/>`{=html}
-```{=html}
+<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+<img src="https://img.shields.io/badge/Shopify-95BF47?style=for-the-badge&logo=shopify&logoColor=white" />
+<img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" />
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+<img src="https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white" />
+<img src="https://img.shields.io/badge/WHM-0086D1?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
-```
 
-------------------------------------------------------------------------
+---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
-```{=html}
 <p align="center">
-```
-`<img height="170" src="https://github-readme-stats.vercel.app/api?username=sefathossainn&show_icons=true&theme=github_dark&hide_border=true"/>`{=html}
-`<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sefathossainn&layout=compact&theme=github_dark&hide_border=true"/>`{=html}
-```{=html}
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sefathossainn&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sefathossainn&layout=compact&theme=tokyonight&hide_border=true" />
+
 </p>
-```
 
-------------------------------------------------------------------------
+---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
-```{=html}
 <p align="center">
-```
-`<img src="https://streak-stats.demolab.com?user=sefathossainn&theme=github-dark&hide_border=true"/>`{=html}
-```{=html}
+<img src="https://streak-stats.demolab.com?user=sefathossainn&theme=tokyonight&hide_border=true" />
 </p>
-```
 
-------------------------------------------------------------------------
+---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
-```{=html}
-<p>
-```
-`<a href="https://sefathossain.com">`{=html}`<img src="https://img.shields.io/badge/Website-black?style=for-the-badge"/>`{=html}`</a>`{=html}
-`<a href="https://linkedin.com/in/sefathossainn">`{=html}`<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>`{=html}`</a>`{=html}
-`<a href="https://facebook.com/sefathossainofficial">`{=html}`<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook"/>`{=html}`</a>`{=html}
-`<a href="https://www.pinterest.com/sefathossainn/">`{=html}`<img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest"/>`{=html}`</a>`{=html}
-`<a href="https://behance.net/sefathossainn">`{=html}`<img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance"/>`{=html}`</a>`{=html}
-`<a href="https://sefathossainofficial.blogspot.com/">`{=html}`<img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger"/>`{=html}`</a>`{=html}
-```{=html}
+<p align="center">
+
+<a href="https://www.linkedin.com/in/sefathossainn">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.facebook.com/sefathossainofficial">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="https://www.pinterest.com/sefathossainn/">
+<img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white"/>
+</a>
+
+<a href="https://www.behance.net/sefathossainn">
+<img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/>
+</a>
+
+<a href="https://sefathossain.com">
+<img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
 </p>
-```
 
-------------------------------------------------------------------------
+---
 
 ## 📫 Contact
 
--   📧 mdsefathossainn@gmail.com
--   🌍 https://sefathossain.com
--   📍 Dhaka, Bangladesh
+- 🌍 Website: https://sefathossain.com
+- 📧 Email: mdsefathossainn@gmail.com
+- 📍 Location: Bangladesh
 
-------------------------------------------------------------------------
+---
 
-> 🛡️ "Security is not a product, but a process."
+<p align="center">
+⭐ Thanks for visiting my profile!
+</p>
