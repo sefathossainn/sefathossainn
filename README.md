@@ -2,48 +2,70 @@
 
 ## 🛡️ WordPress Security Specialist | Web Developer | Shopify Expert
 
-I help businesses secure, optimize, and build reliable websites.
-
-### 💼 Services
-
-- WordPress Malware Removal
-- Website Security Hardening
-- Shopify Development
-- WordPress Development
-- Website Speed Optimization
-- Website Migration
-- Website Maintenance
+I help businesses build secure, fast, and high-performing websites by providing professional WordPress security, malware removal, Shopify development, and website optimization services.
 
 ---
 
-## 🛠️ Skills
+# 🚀 My Services
+
+- 🛡️ WordPress Malware Removal
+- 🔒 Website Security Hardening
+- 🛒 Shopify Development
+- 🌐 WordPress Development
+- ⚡ Website Speed Optimization
+- 🔄 Website Migration
+- 🧹 Spam Link Cleanup
+- ☁️ Cloudflare Setup
+- 💾 Backup & Restore
+- 🔍 Website Maintenance
+
+---
+
+# 🛠️ My Expertise
 
 - WordPress
 - Shopify
 - Elementor
-- cPanel
-- Cloudflare
-- Malware Analysis
 - Website Security
+- Malware Removal
+- Website Speed Optimization
+- Website Migration
+- Cloudflare
+- cPanel
+- Backup & Restore
 
 ---
 
-## 🌐 Website
+# 🌍 Connect With Me
 
+🌐 Website  
 https://sefathossain.com
 
-## 📧 Contact
+💼 LinkedIn  
+https://linkedin.com/in/sefathossainn
 
-Email: mdsefathossainn@gmail.com
+📘 Facebook  
+https://facebook.com/sefathossainofficial
+
+📌 Pinterest  
+https://pinterest.com/sefathossainn
+
+🎨 Behance  
+https://behance.net/sefathossainn
+
+📝 Blogger  
+https://sefathossainofficial.blogspot.com
 
 ---
 
-## 🔗 Connect With Me
+# 📫 Contact
 
-- LinkedIn
-- Facebook
-- Pinterest
-- Behance
-- Blogger
+📧 Email:
+mdsefathossainn@gmail.com
 
-⭐ Thanks for visiting my profile!
+📍 Location:
+Dhaka, Bangladesh
+
+---
+
+⭐ Thanks for visiting my GitHub profile!
